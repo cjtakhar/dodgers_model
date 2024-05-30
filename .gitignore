@@ -1,0 +1,41 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Database files
+*.sqlite3
+*.db
+
+# Logs
+*.log
+logs/
+
+# Compiled files
+*.pyc
+*.pyo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor configurations
+.vscode/
+.idea/
+
+# Node modules
+node_modules/
+
+# Temporary files
+*.tmp
+
+# Test artifacts
+.coverage
+nosetests.xml
+coverage.xml
